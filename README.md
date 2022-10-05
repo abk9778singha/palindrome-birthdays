@@ -4,7 +4,7 @@ App which checks whether your birthday is a palindrome birthday or not.
 
 ## Demo -
 
-You can view this app live here - [Demo](https://)
+You can view this app live here - [Demo](https://palindrome-birthdays-awesome.netlify.app/)
 
 ## Tech Stack -
 
